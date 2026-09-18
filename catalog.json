@@ -1,0 +1,47 @@
+﻿[
+  {
+    "id": "ADS-101",
+    "name": "প্রিমিয়াম ড্রপ শোল্ডার টি-শার্ট (Drop Shoulder T-Shirt)",
+    "category": "T-Shirt",
+    "price": 450,
+    "description": "220+ GSM 100% Combed Cotton, আরামদায়ক ও ট্রেন্ডি ড্রপ শোল্ডার ফিট। এভেলেবল কালার: Black, Maroon, Bottle Green, Navy Blue। সাইজ: M, L, XL, XXL।",
+    "stock": 50,
+    "image_url": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "ADS-102",
+    "name": "লাক্সারি কটন পোলো শার্ট (Premium Polo Shirt)",
+    "category": "Polo",
+    "price": 650,
+    "description": "সফট ব্রিদেবল লাকোস্ট ফেব্রিক, এলিগ্যান্ট কলার ও বাটন প্লেট। অফিস বা ক্যাজুয়াল সব জায়গায় পারফেক্ট। কালার: Navy Blue, Jet Black, Maroon। সাইজ: M, L, XL, XXL।",
+    "stock": 50,
+    "image_url": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "ADS-103",
+    "name": "মেনস ফুল স্লিভ ক্যাজুয়াল কটন শার্ট (Casual Shirt)",
+    "category": "Shirt",
+    "price": 750,
+    "description": "১০০% প্রিমিয়াম সুতি কাপড়, নিখুঁত স্টিচিং ও প্রিমিয়াম বাটন। কালার: Sky Blue, Pure White, Olive Green। সাইজ: M, L, XL।",
+    "stock": 50,
+    "image_url": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "ADS-104",
+    "name": "এক্সক্লুসিভ সেমি-লং সুতি পাঞ্জাবি (Exclusive Panjabi)",
+    "category": "Panjabi",
+    "price": 1250,
+    "description": "আকর্ষণীয় মেটাল বাটন ও আধুনিক এমব্রয়ডারি ডিজাইন সহ এক্সক্লুসিভ কটন ফেব্রিক। কালার: Off-white, Royal Blue, Jet Black। সাইজ: 40, 42, 44।",
+    "stock": 50,
+    "image_url": "https://images.unsplash.com/photo-1627916607164-7b20241db935?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "ADS-105",
+    "name": "প্রিমিয়াম স্ট্রেচ ডেনিম জিন্স (Denim Jeans)",
+    "category": "Jeans",
+    "price": 1150,
+    "description": "সুপার কমফোর্টেবল সেমি-ন্যারো ফিটিং স্ট্রেচ ডেনিম ফেব্রিক। ওয়াশ: Deep Navy Blue, Charcoal Black। সাইজ: 30, 32, 34, 36।",
+    "stock": 50,
+    "image_url": "https://images.unsplash.com/photo-1542272604-780c96856592?w=600&auto=format&fit=crop&q=80"
+  }
+]
